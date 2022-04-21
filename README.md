@@ -12,28 +12,29 @@
 
 <!-- Linkedin -->
 <a href="https://in.linkedin.com/in/wastik-ansari-a15956188" rel="nofollow">
-  <img align="left" alt="Wastik's Linkdein" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
+  <img align="left" alt="Wastik's Linkdein" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138130.png?token=exp=1650541477~hmac=72ac3dc8bfda0b4846112c78d40fe595" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
 </a>
 
 <!-- YouTub -->
 <a href="" rel="nofollow">
-  <img align="left" alt="Wastik's Youtube" width="22px" src="https://camo.githubusercontent.com/6645c4c313a1f4f0032cd1c5e5fd0033417104a7a282fed4cafdca8ac2a1ab33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;">
+  <img align="left" alt="Wastik's Youtube" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138134.png?token=exp=1650541440~hmac=ff9dc246ce51616c71a5fe3f13b49034" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;">
 </a>
 
 <!-- Twitter Account -->
 <a href="https://twitter.com/ansari_wastik" rel="nofollow">
-  <img align="left" alt="Wastik's Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;">
+  <img align="left" alt="Wastik's Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138126.png?token=exp=1650541504~hmac=1200b7da27cd31b09724eb513237fc18" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;">
 </a> 
 
 <!-- GitGub Account -->
 <a href="https://github.com/wastikansari">
-  <img align="left" alt="Wstik's Github" width="22px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">
+  <img align="left" alt="Wstik's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">
 </a>
 
 <!-- Instagram Account -->
 <a href="https://instagram.com/wastikansari/" rel="nofollow">
-  <img align="left" alt="Wastik's Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"
+  <img align="left" alt="Wastik's Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1650541379~hmac=42a26d397889ddcc6e3c59cb37af0a1a" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"
 </a>
+  
                                
 <br>
 
