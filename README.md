@@ -51,5 +51,5 @@
 - 🔭 I’m currently working as a Freelancer (Flutter)
 - 🌱 I’m currently learning AI
 - 💬 Ask me about Flutter or any Tech-related stuff. 
-- 📫 How to reach me: Links given belo
+- 📫 How to reach me: Link is given above
 - ⚡ Fun fact: I'm a movie buff 
