@@ -55,5 +55,7 @@
 <a href="https://instagram.com/wastikansari/" >
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"
 </a>
+
+![Profile views](https://komarev.com/ghpvc/?username=wastikansari&color=brightgreen)
   
 
