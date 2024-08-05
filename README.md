@@ -7,6 +7,8 @@
 <!-- About Me -->
 <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d=""></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> About Me</h2>
 
+<!-- slider text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F7DC04&width=460&lines=Mobile+App+Developer;Frontend+%26+Backend+Developer;+Always+exploring+new+technologies;Content+Creator+%26+Educator" alt="Typing SVG" /></a>
 <p dir="auto">I'm Wastik Ansari, a Full Stack Flutter Developer and coding enthusiast with a passion for creating amazing mobile applications. Welcome to my GitHub profile!!, Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, don't hesitate to reach out. Let's build something great together! 🌟</p>
         <ul>
             <li>🔭 I’m currently working as a Freelancer (Flutter)</span>.</li>
