@@ -16,8 +16,7 @@
             <li>💬 Ask me about Flutter, React js, Node js, mobile app development, or coding in general.</li>
             <li>📫 How to reach me: Link is given above</span></li>
             <li>⚡ Fun fact: <span>I'm a movie buff </span></li>
-        </ul>
-                               
+        </ul>                           
 <br> 
 
 
